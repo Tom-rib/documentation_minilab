@@ -45,7 +45,7 @@ Déploiement complet d'une infrastructure réseau pour une association : VPN, LD
 - Installation de Debian 12 + MATE.
 - Authentification LDAP via PAM.
 - Montage NFS automatique.
-
+gi
 ## 5. Sécurisation de l'infrastructure
 
 ### 5.1 Sécurité réseau
